@@ -1,0 +1,12 @@
+.body{
+    width: 100%;
+    text-align: center;
+    font-size:25px;
+    background-color: #1abc9c;
+    padding: 13px 0;
+    color: white;
+    font-weight:700;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
